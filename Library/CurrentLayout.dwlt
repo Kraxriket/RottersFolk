@@ -470,7 +470,11 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 50270000
+=======
+    m_SelectedIDs: 
+>>>>>>> parent of 815e6a3... Revert "effd"
     m_LastClickedID: 0
     m_ExpandedIDs: 86fbffff00000000
     m_RenameOverlay:
@@ -528,9 +532,15 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 83.78313, y: 4.138081, z: 83.922356}
     speed: 2
     m_Value: {x: 83.78313, y: 4.138081, z: 83.922356}
+=======
+    m_Target: {x: 67.089935, y: 9.796526, z: 81.017586}
+    speed: 2
+    m_Value: {x: 67.089935, y: 9.796526, z: 81.017586}
+>>>>>>> parent of 815e6a3... Revert "effd"
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -554,9 +564,15 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: -0.018352186, y: 0.91892576, z: -0.043057416, w: -0.39164343}
     speed: 2
     m_Value: {x: -0.018352188, y: 0.9189258, z: -0.04305742, w: -0.39164346}
+=======
+    m_Target: {x: -0.07709756, y: 0.9215745, z: -0.24202596, w: -0.29356447}
+    speed: 2
+    m_Value: {x: -0.07709755, y: 0.92157435, z: -0.24202593, w: -0.29356444}
+>>>>>>> parent of 815e6a3... Revert "effd"
   m_Size:
     m_Target: 7.0589747
     speed: 2
@@ -621,8 +637,13 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 50270000
     m_LastClickedID: 10064
+=======
+    m_SelectedIDs: f8260000
+    m_LastClickedID: 9976
+>>>>>>> parent of 815e6a3... Revert "effd"
     m_ExpandedIDs: 00000000f826000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
