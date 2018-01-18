@@ -1,7 +1,11 @@
 fileFormatVersion: 2
 guid: 23d4380cca0607043bfd728a4fd5f370
 folderAsset: yes
+<<<<<<< HEAD
 timeCreated: 1516275443
+=======
+timeCreated: 1515759034
+>>>>>>> parent of 6ebe3f8... Revert "Initial commit"
 licenseType: Free
 DefaultImporter:
   externalObjects: {}

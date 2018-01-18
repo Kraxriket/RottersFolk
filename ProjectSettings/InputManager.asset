@@ -118,6 +118,25 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
+<<<<<<< HEAD
+=======
+    m_Name: Joystick X
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0.1
+    snap: 0
+    invert: 0
+    type: 2
+    axis: 3
+    joyNum: 0
+  - serializedVersion: 3
+>>>>>>> parent of 6ebe3f8... Revert "Initial commit"
     m_Name: Mouse Y
     descriptiveName: 
     descriptiveNegativeName: 
@@ -134,6 +153,25 @@ InputManager:
     axis: 1
     joyNum: 0
   - serializedVersion: 3
+<<<<<<< HEAD
+=======
+    m_Name: Joystick Y
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0.1
+    snap: 0
+    invert: 0
+    type: 2
+    axis: 4
+    joyNum: 0
+  - serializedVersion: 3
+>>>>>>> parent of 6ebe3f8... Revert "Initial commit"
     m_Name: Mouse ScrollWheel
     descriptiveName: 
     descriptiveNegativeName: 
