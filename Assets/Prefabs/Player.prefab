@@ -79,9 +79,9 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4078140821589840}
-  - component: {fileID: 114410299408888424}
-  - component: {fileID: 54953651092963352}
   - component: {fileID: 136336492263285916}
+  - component: {fileID: 54438078919164736}
+  - component: {fileID: 114039090155565314}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1463,7 +1463,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1061733825402500}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.75061, y: 0, z: -1.2630615}
+  m_LocalPosition: {x: 48.291534, y: -0.009155273, z: 58.17581}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4013668578042120}
@@ -2661,7 +2661,7 @@ Transform:
   m_Father: {fileID: 4482460069123264}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!54 &54953651092963352
+--- !u!54 &54438078919164736
 Rigidbody:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -2693,7 +2693,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &114410299408888424
+--- !u!114 &114039090155565314
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -2701,11 +2701,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1061733825402500}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d04ae3c5ce563f143b92fd8af288fb72, type: 3}
+  m_Script: {fileID: 11500000, guid: ace8a983608d312458d35a083468aebe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 10
-  animator: {fileID: 95038783873210808}
+  animator: {fileID: 0}
 --- !u!136 &136336492263285916
 CapsuleCollider:
   m_ObjectHideFlags: 1
