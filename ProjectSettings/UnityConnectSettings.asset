@@ -10,21 +10,14 @@ UnityConnectSettings:
   m_TestInitMode: 0
   CrashReportingSettings:
     m_EventUrl: https://perf-events.cloud.unity3d.com/api/events/crashes
-<<<<<<< HEAD
     m_NativeEventUrl: https://perf-events.cloud.unity3d.com/symbolicate
-=======
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
     m_Enabled: 0
     m_CaptureEditorExceptions: 1
   UnityPurchasingSettings:
     m_Enabled: 0
     m_TestMode: 0
   UnityAnalyticsSettings:
-<<<<<<< HEAD
     m_Enabled: 0
-=======
-    m_Enabled: 1
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
     m_InitializeOnStartup: 1
     m_TestMode: 0
     m_TestEventUrl: 
@@ -33,10 +26,6 @@ UnityConnectSettings:
     m_Enabled: 0
     m_InitializeOnStartup: 1
     m_TestMode: 0
-<<<<<<< HEAD
-=======
-    m_EnabledPlatforms: 4294967295
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
     m_IosGameId: 
     m_AndroidGameId: 
     m_GameIds: {}
