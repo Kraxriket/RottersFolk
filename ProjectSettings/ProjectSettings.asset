@@ -4,11 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-<<<<<<< HEAD
   productGUID: 458b83965f166dc4b9672bbcd30dde11
-=======
-  productGUID: 7763648bffafe724f9f3e1dbcca4bcf0
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -16,11 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-<<<<<<< HEAD
   productName: Folk
-=======
-  productName: Test pit
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -54,11 +46,7 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
-<<<<<<< HEAD
   m_ActiveColorSpace: 0
-=======
-  m_ActiveColorSpace: 1
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
   m_MTRendering: 1
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
   iosShowActivityIndicatorOnLoading: -1
@@ -280,17 +268,7 @@ PlayerSettings:
     Android: 1
     iPhone: 1
     tvOS: 1
-<<<<<<< HEAD
   m_BuildTargetGroupLightmapEncodingQuality: []
-=======
-  m_BuildTargetGroupLightmapEncodingQuality:
-  - m_BuildTarget: Standalone
-    m_EncodingQuality: 1
-  - m_BuildTarget: XboxOne
-    m_EncodingQuality: 1
-  - m_BuildTarget: PS4
-    m_EncodingQuality: 1
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
   wiiUTitleID: 0005000011000000
   wiiUGroupID: 00010000
   wiiUCommonSaveSize: 4096
@@ -454,11 +432,7 @@ PlayerSettings:
   ps4VideoOutPixelFormat: 0
   ps4VideoOutInitialWidth: 1920
   ps4VideoOutBaseModeInitialWidth: 1920
-<<<<<<< HEAD
   ps4VideoOutReprojectionRate: 60
-=======
-  ps4VideoOutReprojectionRate: 120
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
   ps4PronunciationXMLPath: 
   ps4PronunciationSIGPath: 
   ps4BackgroundImagePath: 
@@ -575,17 +549,7 @@ PlayerSettings:
   webGLUseEmbeddedResources: 0
   webGLUseWasm: 0
   webGLCompressionFormat: 1
-<<<<<<< HEAD
   scriptingDefineSymbols: {}
-=======
-  scriptingDefineSymbols:
-    1: CROSS_PLATFORM_INPUT
-    4: CROSS_PLATFORM_INPUT;MOBILE_INPUT
-    7: CROSS_PLATFORM_INPUT;MOBILE_INPUT
-    14: MOBILE_INPUT
-    17: MOBILE_INPUT
-    20: MOBILE_INPUT
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
   platformArchitecture: {}
   scriptingBackend: {}
   incrementalIl2cppBuild: {}
@@ -594,22 +558,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-<<<<<<< HEAD
   metroPackageName: Folk
-=======
-  metroPackageName: Test pit
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-<<<<<<< HEAD
   metroApplicationDescription: Folk
-=======
-  metroApplicationDescription: Test pit
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -674,22 +630,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-<<<<<<< HEAD
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 
   projectName: 
   organizationId: 
-=======
-  cloudServicesEnabled:
-    UNet: 1
-  facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
-  cloudProjectId: a45f1c65-5d04-4e27-b86c-d4dde2a8d7ce
-  projectName: Test pit
-  organizationId: dennis-barthelsson-reynols
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

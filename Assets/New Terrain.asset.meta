@@ -1,17 +1,10 @@
 fileFormatVersion: 2
 guid: 96a338375c7512740a9be653b3122e04
-<<<<<<< HEAD
 timeCreated: 1516275446
 licenseType: Free
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
-=======
-timeCreated: 1511721846
-licenseType: Free
-NativeFormatImporter:
-  mainObjectFileID: 15600000
->>>>>>> parent of 6ebe3f8... Revert "Initial commit"
   userData: 
   assetBundleName: 
   assetBundleVariant: 
