@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 
-//TODO
-//Set joystick float epsilon for precise controls
+//kNOWN ISSUES
+//Joystick error causes camera to stray when at resting position
+//camera collision computation snaps to player model at high speeds
 
 public class CameraController : MonoBehaviour
 {
@@ -21,7 +22,7 @@ public class CameraController : MonoBehaviour
     float yaw;
     float pitch;
 
-    void LateUpdate()
+    void Update()
     {
         yaw -= CrossPlatformInputManager.GetAxis("Joystick X") * cameraSensitivity;
         pitch -= CrossPlatformInputManager.GetAxis("Joystick Y") * cameraSensitivity;
@@ -39,6 +40,7 @@ public class CameraController : MonoBehaviour
             }
             else
             {
+
                 cameraDistance = hit.distance * 0.9f;
             }
         }
@@ -48,6 +50,7 @@ public class CameraController : MonoBehaviour
             cameraDistance = cameraRange;
 
         }
+
 
 
 
